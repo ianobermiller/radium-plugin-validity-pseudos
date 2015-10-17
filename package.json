@@ -1,0 +1,30 @@
+{
+  "name": "radium-plugin-validity-pseudos",
+  "version": "1.0.0",
+  "description": "Radium plugin to enable the :valid and :invalid pseudo selectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianobermiller/radium-plugin-validity-pseudos.git"
+  },
+  "keywords": [
+    "radium",
+    "radium-plugin",
+    "plugin",
+    "react",
+    "inline-styles"
+  ],
+  "author": "Ian Obemiller <ian@obermillers.com> (http://ianobermiller.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianobermiller/radium-plugin-validity-pseudos/issues"
+  },
+  "homepage": "https://github.com/ianobermiller/radium-plugin-validity-pseudos#readme",
+  "devDependencies": {
+    "object-assign": "^4.0.1",
+    "tape": "^4.2.0"
+  }
+}
