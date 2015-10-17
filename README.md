@@ -1,11 +1,12 @@
 # radium-plugin-validity-pseudos
 
-Radium plugin to enable the :invalid pseudo selector.
+Radium plugin to enable the :valid and :invalid pseudo selectors."
 
 Example:
 
 ```js
 {
+  ':valid': {borderColor: 'black'},
   ':invalid': {borderColor: 'red'}
 }
 ```
